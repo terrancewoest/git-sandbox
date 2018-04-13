@@ -1,1 +1,3 @@
 I should be ignored but I was added before .gitignore
+
+Here is the second modification am I still tracked?
